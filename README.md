@@ -1,6 +1,6 @@
 # PasswordGenerator
 Generates a password and stores it in a list
-Currently in developement --> v0.1
+Currently in developement --> v0.2
 
 Current Functionality:
 
@@ -9,8 +9,6 @@ Current Functionality:
     - Passwords are saved to a list that can be viewed from within the application
 
 Planned updates:
-
-    - Add a "Delete" button to delete entries
 	
     - Add hashing to generated passwords for security
 	
