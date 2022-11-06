@@ -17,6 +17,10 @@ Planned updates:
     - Two factor authentication to limit access to password list
 	
     - Ability to send password file to secure server for retrieval on multiple devices
+    
+    - Separate some functions into external modules
+    
+    - Clean up code and remove redundancy
 	
     
 Bug Fixes:
